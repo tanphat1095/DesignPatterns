@@ -1,2 +1,2 @@
 # DesignPatterns
-learning Design Pattern
+Simple Demo Design Pattern
